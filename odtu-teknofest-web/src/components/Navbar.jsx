@@ -20,7 +20,7 @@ function Navbar() {
 
   const navLinks = [
     { name: 'Mission', href: '#mission' },
-    { name: 'Events', href: '#events' },
+    { name: 'Events', href: '#etkinlikler' },
     { name: 'Competitions', href: '#competitions' },
     { name: 'Committees', href: '#committees' }
   ]
